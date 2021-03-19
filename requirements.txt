@@ -1,6 +1,6 @@
 Django==2.2.1
 graphene-django==2.3.0
-pillow==6.0.0
+pillow==8.1.1
 django-cors-headers==3.0.2
 graphene-file-upload==1.2.2
 pandas==0.25.3
