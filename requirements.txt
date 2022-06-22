@@ -5,6 +5,6 @@ django-cors-headers==3.0.2
 graphene-file-upload==1.2.2
 pandas==0.25.3
 xlrd==1.2.0
-numpy==1.14.6
+numpy==1.22.0
 scikit-learn==0.22
 matplotlib==3.1.2
